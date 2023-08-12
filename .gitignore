@@ -1,0 +1,23 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+gradle/
+gradlew
+*.bat
+build
+
+
+# idea confid
+.idea
+
+# old stages
+/Coffee Machine (Java)/*
+!/Coffee Machine (Java)/task/
+/Coffee Machine (Java)/task/*
+!/Coffee Machine (Java)/task/src
+
+# Project exclude paths
+/Topics/Debugging techniques/Find the error/out/
+/Topics/Debugging techniques/Find the error/out/production/classes/
